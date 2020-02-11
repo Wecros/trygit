@@ -4,6 +4,6 @@
 
 1. pkratoch
 2. lruzicka
-3. sscavnic
-4.
+3. soleksak
+4. sscavnic
 5.
